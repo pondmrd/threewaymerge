@@ -4,6 +4,10 @@ This project uses Typescript and Jest as a unit test
 ## Installation
 Please make sure that you have already installed Node.Js. If not, please download [link to download nodejs](https://nodejs.org/en/download/)
 
+#### NodeJS and NPM Requirements
+- Node.js >= 18.0.0
+- npm >= 9.0.0
+
 After cloning or downloading the project, please do the following.
 
 ```js
